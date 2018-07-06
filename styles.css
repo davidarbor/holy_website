@@ -1,0 +1,38 @@
+#mainPage{
+    background: lightgrey;
+}
+
+#page1Header{
+    font-size: 30px;
+    background: goldenrod;
+}
+
+#welcomeBox{
+    border: solid thick darkgoldenrod;
+    background: goldenrod;
+    border-radius: 15px;
+    width: 1000px;
+    height: 150px;
+    position: relative;
+    left: 12%;
+}
+
+.headerOne{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#welcome{
+    position: relative;
+    left: 15%;
+}
+
+#here{
+    position: relative;
+    left: 1%;
+    font-weight: bold;
+}
+
+#contact{
+    color: saddlebrown;
+}
